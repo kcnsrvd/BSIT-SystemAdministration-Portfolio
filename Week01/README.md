@@ -3,9 +3,10 @@
 ## Student Information
 
 **Name:** Kyla O. Conservado 
+
 **Course:** Bachelor of Science in Information Technology  
-**Section:** [Your Section]  
-**Date:** [Date]
+**Section:** [BSIt-4B]  
+**Date:** [August 8, 2026]
 
 # Objectives
 
