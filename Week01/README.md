@@ -2,9 +2,9 @@
 
 ## Student Information
 
-**Name:** Kyla O. Conservado 
-**Course:** Bachelor of Science in Information Technology  
-**Section:** BSIT-4B 
+**Name:** Kyla O. Conservado   
+**Course:** Bachelor of Science in Information Technology      
+**Section:** BSIT-4B         
 **Date:** August 8, 2026
 
 # Objectives
