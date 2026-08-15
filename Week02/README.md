@@ -76,7 +76,7 @@ The network follows this basic structure:
 
 The switch connects to the server, printer, wireless access point, and the four departments.
 
-![ABC Startup Solutions Network Topology](diagrams/ABC-Network-Topology.png)
+![ABC Startup Solutions Network Topology](diagrams/abc_startup-3.drawio.png)
 
 **Network Diagram:** ABC Startup Solutions – Enterprise Network Topology
 
